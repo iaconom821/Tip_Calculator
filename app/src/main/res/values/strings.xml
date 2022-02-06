@@ -7,6 +7,6 @@
     <string name="poor_10">Poor (10%)</string>
     <string name="round_up">Round up?</string>
     <string name="calculate_tip">Calculate Tip</string>
-    <string name="tip_amount">Tip Amount</string>
     <string name="cost_of_meal">Cost of Meal</string>
+    <string name="tip_calculated_amount">Tip Amount: %s</string>
 </resources>
